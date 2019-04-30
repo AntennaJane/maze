@@ -1,0 +1,19 @@
+{
+  "name": "maze",
+  "version": "0.1.0",
+  "description": "Create and display a maze.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntennaJane/maze.git"
+  },
+  "author": "AntennaJane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntennaJane/maze/issues"
+  },
+  "homepage": "https://github.com/AntennaJane/maze#readme"
+}
